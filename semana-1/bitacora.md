@@ -39,8 +39,9 @@ Google Trust Services
 
 ### Capturas
 
-![Panel Network sitio Estado](capturas/estado-network.png)
-![Certificado TLS sitio Estado](capturas/estado-certificado.png)
+![Panel Network sitio Estado](red-gobierno.png)
+
+![Certificado TLS sitio Estado](gov-tls.png)
 
 ### Observaciones
 
@@ -78,8 +79,9 @@ DigiCert
 
 ### Capturas
 
-![Panel Network sitio universitario](capturas/universidad-network.png)
-![Certificado TLS sitio universitario](capturas/universidad-certificado.png)
+![Panel Network sitio universitario](red-unal.png)
+
+![Certificado TLS sitio universitario](unal-tls.png)
 
 ### Observaciones
 
@@ -117,8 +119,9 @@ DigiCert
 
 ### Capturas
 
-![Panel Network sitio comercial](capturas/comercial-network.png)
-![Certificado TLS sitio comercial](capturas/comercial-certificado.png)
+![Panel Network sitio comercial](red-bancolombia.png)
+
+![Certificado TLS sitio comercial](bancolombia-tls.png)
 
 ### Observaciones
 
