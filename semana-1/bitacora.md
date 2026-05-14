@@ -122,7 +122,6 @@ DigiCert
 ![Panel Network sitio comercial](red-bancolombia.png)
 
 ![Certificado TLS sitio comercial](bancolombia-tls.png)
-
 ### Observaciones
 
 El sitio comercial es el más pesado debido a la cantidad de scripts, imágenes y servicios externos. Esto incrementa el número de peticiones y el tiempo de carga.
