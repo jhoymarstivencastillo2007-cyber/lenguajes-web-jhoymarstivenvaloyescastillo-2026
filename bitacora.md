@@ -39,9 +39,12 @@ Google Trust Services
 
 ### Capturas
 
-![Panel Network sitio Estado](red-gobierno.png) 
+```markdown
+![Panel Network sitio Estado](red-gobierno.png)
 
 ![Certificado TLS sitio Estado](gov-tls.png)
+```
+
 
 ### Observaciones
 
