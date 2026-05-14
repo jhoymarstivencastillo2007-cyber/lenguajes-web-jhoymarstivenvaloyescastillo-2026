@@ -42,7 +42,7 @@ El sitio del Estado presenta una carga media con múltiples recursos como imáge
 
 ### Capturas
 
-![Panel Network sitio universitario](red-unal.png)
+![Imagen](unal-network.png)
 
 ![Certificado TLS sitio universitario](unal-tls.png)
 
