@@ -68,7 +68,7 @@ El sitio universitario es más liviano y rápido debido a menor cantidad de recu
 
 ### Capturas
 
-![Panel Network sitio comercial](red-bancolombia.png)
+![Imagen](bancolombia-network.png)
 
 ![Certificado TLS sitio comercial](bancolombia-tls.png)
 
