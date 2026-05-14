@@ -16,7 +16,7 @@
 
 ### Capturas
 
-![Panel Network sitio Estado](red-gobierno.png)
+![Imagen](red-gobierno.PNG)
 
 ![Certificado TLS sitio Estado](gov-tls.png)
 
