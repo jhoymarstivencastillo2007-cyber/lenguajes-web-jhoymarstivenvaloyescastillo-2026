@@ -16,7 +16,7 @@
 
 ### Capturas
 
-![Imagen](gov-tls.png)
+![Imagen](red-network.png)
 
 ![Certificado TLS sitio Estado](gov-tls.png)
 
