@@ -39,7 +39,7 @@ Google Trust Services
 
 ### Capturas
 
-![Panel Network sitio Estado](red-gobierno.png)
+![Panel Network sitio Estado](../red-gobierno.png)
 
 ![Certificado TLS sitio Estado](gov-tls.png)
 
